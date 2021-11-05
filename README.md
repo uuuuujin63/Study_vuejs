@@ -1,2 +1,2 @@
 # Study_vuejs
-vue.js를 공부합니다.
+## vue.js 공부기록
